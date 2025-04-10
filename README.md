@@ -9,7 +9,6 @@
 
 🔭 I’m currently working as a **Software Engineer at RefactorQ**  
 🌱 I’m sharpening my skills in **TypeScript, Testing (Jest/Cypress), GraphQL, and UI Animation**  
-💼 Built production-grade projects like **CarryAll (E-Commerce)** and **Pinterest Clone**  
 🌍 Open for **Freelance, Remote Jobs, or Associate Developer roles**  
 📫 How to reach me: [hasmukhsingh99@gmail.com](mailto:hasmukhsingh99@gmail.com)  
 🌐 Portfolio: [hasmukh-singh-folio.vercel.app](https://hasmukh-singh-folio.vercel.app)
