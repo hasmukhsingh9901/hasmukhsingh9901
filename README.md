@@ -16,9 +16,8 @@
 
 ### 💡 About Me
 
-- 🧑‍💻 Currently working at **RefactorQ** as a Software Engineer  
 - 🛠️ Tech Stack: `React.js`, `Next.js`, `TailwindCSS`, `Node.js`, `MongoDB`, `Express.js`  
-- 🌱 Exploring `GraphQL`, `TypeScript`, `React Native`, `Jest`, `Cypress`  
+- 🌱 Exploring `GraphQL`, `TypeScript``, `Cypress`  
 - 🎯 Open for: **Freelance Projects**, **Remote Jobs**, **Collaborations**  
 - 📫 Reach me at: [hasmukhsingh99@gmail.com](mailto:hasmukhsingh99@gmail.com)  
 - 🌐 Portfolio: [hasmukh-singh-folio.vercel.app](https://hasmukh-singh-folio.vercel.app)
