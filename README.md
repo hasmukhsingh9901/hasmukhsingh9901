@@ -5,6 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer+(1.4+YOE);React.js+%7C+Next.js+%7C+TailwindCSS;Open+to+Freelance+%26+Remote+Roles;Building+Pixel-Perfect+UIs+Everyday" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000¢er=true&vCenter=true&width=500&lines=Data+%26+Business+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Open+to+Freelance+%26+Remote+Roles;Transforming+Data+into+Insights+Daily" alt="Typing SVG" />
+</p>
 ---
 
 <p align="center">
