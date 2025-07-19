@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Frontend Developer | React.js • Next.js • TailwindCSS Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=500&lines=Software+Developer+(1.4+YOE);React.js+%7C+Next.js+%7C+TailwindCSS;Open+to+Freelance+%26+Remote+Roles;Building+Pixel-Perfect+UIs+Everyday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=500&lines=Software+Developer+(1.7+YOE);React.js+%7C+Next.js+%7C+TailwindCSS;Open+to+Freelance+%26+Remote+Roles;Building+Pixel-Perfect+UIs+Everyday" alt="Typing SVG" />
 </p>
 
 ---
