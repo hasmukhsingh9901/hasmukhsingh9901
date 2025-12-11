@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNtdndpNWU2cjVvNG16M2o3eW1xemY0Z2FqZWhvZm16aXpsd2M4ciZlcD12aXN1YWxzJmN0PWc/wPqubS3kH7JkY/giphy.gif" width="60px" alt="Waving Hand" />
   <h1>Hi, I'm Hasmukh Singh!</h1>
 </div>
 
