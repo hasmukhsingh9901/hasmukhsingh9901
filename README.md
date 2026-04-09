@@ -1,112 +1,101 @@
 <div align="center">
-  <h1>Hi, I'm Hasmukh Singh!</h1>
+  <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/hand.gif" width="35px"> I'm Hasmukh Singh</h1>
+  <p>🚀 <strong>Software Developer | crafting high-performance web applications</strong></p>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React.js+%2B+Next.js+Expert;2%2B+Years+of+Experience;Building+the+Future+of+Web" alt="Typing SVG" />
+  </p>
+
+  <img src="https://img.shields.io/github/followers/hasmukhsingh9901?label=Followers&style=for-the-badge&color=2ecc71&logo=github" /> 
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-2ecc71?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=hasmukhsingh9901&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </div>
 
-<h3 align="center">🚀 Frontend Developer | React.js • Next.js • TailwindCSS Enthusiast</h3>
+---
+
+## ⚡ About My Journey
+
+<p align="left">
+I am a <b>Frontend-heavy Full Stack Developer</b> with a deep obsession for UI/UX and clean code. With over <b>2 years of experience</b>, I've mastered the art of building scalable applications using the <b>MERN stack</b> and modern frameworks like <b>Next.js</b>.
+</p>
+
+- 🔭 **Currently working on:** Advanced Micro-frontend architectures.
+- 👯 **Looking to collaborate on:** Open-source React libraries & SaaS products.
+- 💬 **Ask me about:** React state management, Tailwind hacks, or SEO optimization.
+- ⚡ **Fun fact:** I believe if a UI isn't responsive, it's not a UI.
+
+---
+
+## 🛠️ The Tech Ecosystem
+
+### 💻 Frontend & Styling
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css,sass,mui,bootstrap" />
+
+### ⚙️ Backend & Infrastructure
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,graphql,postman,vercel,netlify,github,git" />
+
+---
+
+## 📂 Signature Projects
+
+### 🚛 CarryAll – Modern E-Commerce
+> A full-scale e-commerce solution with Stripe integration and a custom-built admin dashboard.
+- **Stack:** React, Node.js, MongoDB, Stripe API.
+- **Key Feature:** Real-time order tracking and secure payment flow.
+- [**Live Demo 🔗**](https://carryall.onrender.com) | [**Source Code 📂**](https://github.com/hasmukhsingh9901)
+
+### 📌 Pinterest 2.0
+> A high-performance image discovery engine with masonry layouts and infinite scroll.
+- **Stack:** Next.js, TailwindCSS, Unsplash API.
+- **Key Feature:** Blazing fast image loading with Next/Image optimization.
+- [**Live Demo 🔗**](https://pinterest-clone-azure.vercel.app)
+
+---
+
+## 📈 GitHub Performance Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasmukhsingh9901&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasmukhsingh9901&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
+</div>
+
+<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=500&lines=Software+Developer+(2+YOE);React.js+%7C+Next.js+%7C+TailwindCSS;Open+to+Freelance+%26+Remote+Roles;Building+Pixel-Perfect+UIs+Everyday" alt="Typing SVG" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasmukhsingh9901&theme=tokyonight&hide_border=false" width="100%" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasmukhsingh9901&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  &nbsp; &nbsp;
-  <img src="https://img.shields.io/github/followers/hasmukhsingh9901?label=Followers&style=social" alt="GitHub followers" />
-</p>
+## 🤝 Get In Touch
 
----
-
-## 🎯 About Me
-
-<table width="100%">
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <ul>
-        <li>🛠️ <strong>Core Stack:</strong> <code>React.js</code>, <code>Next.js</code>, <code>TailwindCSS</code></li>
-        <li>💡 <strong>Full Stack Experience:</strong> <code>Node.js</code>, <code>Express.js</code>, <code>MongoDB</code></li>
-        <li>🌱 <strong>Currently Exploring:</strong> <code>GraphQL</code>, <code>TypeScript</code>, <code>Cypress</code></li>
-      </ul>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/hasmukh-singh-799b65249/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><br />
+        Connect on LinkedIn
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li>📫 <strong>Email:</strong> <a href="mailto:hasmukhsingh99@gmail.com">hasmukhsingh99@gmail.com</a></li>
-        <li>🌐 <strong>Portfolio:</strong> <a href="https://hasmukh-singh-folio.vercel.app">hasmukh-singh-folio.vercel.app</a></li>
-        <li>🤝 <strong>Open For:</strong> <strong>Freelance Projects</strong>, <strong>Remote Jobs</strong>, & <strong>Collaborations</strong></li>
-      </ul>
+    <td align="center">
+      <a href="mailto:hasmukhsingh99@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><br />
+        Drop an Email
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://wa.me/918103826404">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br />
+        Let's Chat
+      </a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 💻 Tech Stack Badges
-
-### 🌐 Frontend & Languages
-<p>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/-MaterialUI-007FFF?style=flat-square&logo=mui" alt="Material UI" />
-</p>
-
-### ⚙️ Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=node.js" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express" alt="Express.js" />
-  <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb" alt="MongoDB" />
-</p>
-
-### 🛠️ Tools & DevOps
-<p>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" />
-  <img src="https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma" alt="Figma" />
-  <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira" alt="Jira" />
-</p>
-
----
-
-## 🏆 GitHub Stats
-
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasmukhsingh9901&theme=tokyonight&hide_border=true" 
-       width="48%" 
-       alt="Hasmukh Singh's GitHub Streak" />
-</p>
-
----
-
-## 📂 Featured Projects
-
-| Project Name | Stack | Live Demo |
-| :--- | :--- | :--- |
-| 🚛 CarryAll – E-Commerce | `React` + `MongoDB` + `Stripe` | [Demo Link](https://carryall.onrender.com) |
-| 📌 Pinterest Clone | `Next.js` + `Unsplash API` | [Demo Link](https://pinterest-clone-azure.vercel.app) |
-| 💼 Portfolio Website | `Next.js` + `TailwindCSS` | [Demo Link](https://hasmukh-singh-folio.vercel.app) |
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:hasmukhsingh99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/hasmukh-singh-799b65249/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp; &nbsp;
-  <a href="https://wa.me/918103826404" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  &nbsp; &nbsp;
-  <a href="https://github.com/hasmukhsingh9901" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
----
-
-<p align="center">
-  > ✨ *"Code with clarity, design with empathy, deliver with consistency."*
-</p>
-<p align="right">
-  — **Hasmukh Singh**
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+  <br />
+  <sub>Built with ❤️ by Hasmukh Singh</sub>
+</div>
