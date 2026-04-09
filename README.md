@@ -3,7 +3,7 @@
   <p>🚀 <strong>Software Developer | crafting high-performance web applications</strong></p>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React.js+%2B+Next.js+Expert;2%2B+Years+of+Experience;Building+the+Future+of+Web" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React.js+%2B+Next.js;2%2B+Years+of+Experience;Building+the+Future+of+Web" alt="Typing SVG" />
   </p>
 
   <img src="https://img.shields.io/github/followers/hasmukhsingh9901?label=Followers&style=for-the-badge&color=2ecc71&logo=github" /> 
@@ -22,7 +22,6 @@ I am a <b>Frontend-heavy Full Stack Developer</b> with a deep obsession for UI/U
 - 🔭 **Currently working on:** Advanced Micro-frontend architectures.
 - 👯 **Looking to collaborate on:** Open-source React libraries & SaaS products.
 - 💬 **Ask me about:** React state management, Tailwind hacks, or SEO optimization.
-- ⚡ **Fun fact:** I believe if a UI isn't responsive, it's not a UI.
 
 ---
 
@@ -94,8 +93,4 @@ I am a <b>Frontend-heavy Full Stack Developer</b> with a deep obsession for UI/U
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
-  <br />
-  <sub>Built with ❤️ by Hasmukh Singh</sub>
 </div>
